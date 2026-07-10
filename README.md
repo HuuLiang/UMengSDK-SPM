@@ -1,2 +1,2 @@
-# UMeng-SPM
+# UMengSDK-SPM
 Swift Package Manager support for UMeng
